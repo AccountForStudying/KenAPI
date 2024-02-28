@@ -6,6 +6,8 @@ info:
 servers:
   - url: http://localhost:4000/api/
     description: Localhost dev server
+  - url: https://kenapi.onrender.com/api/
+    description: Render dev server
 components:
   securitySchemes:
     ApiKeyAuth:
